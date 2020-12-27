@@ -10,7 +10,7 @@ https://templatemo.com/tm-516-known
 
   body {
     background: #ffffff;
-    font-family: 'Nunito', sans-serif;
+    font-family: sans-serif;
     overflow-x: hidden;
     padding-top: 70px;
   }
@@ -21,7 +21,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   h1,h2,h3,h4,h5,h6 {
-    font-family: 'Muli', sans-serif;
+    font-family: sans-serif;
     font-weight: bold;
     line-height: inherit;
   }
@@ -276,7 +276,7 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .logo {
-  padding: 15px 10px;
+  padding: 10px 10px;
   float: top;
   width: 150px;
   height: auto;
@@ -400,6 +400,9 @@ https://templatemo.com/tm-516-known
     background-image: url(../images/5.jpg);
   }
 
+  .home-slider .item-fourth {
+    background-image: url(../images/mechanical.jpg);
+  }
  .logo img{
   padding: 15px 20px;
   float: top;
@@ -464,8 +467,13 @@ https://templatemo.com/tm-516-known
     line-height: 50px;
     text-align: center;
   }
+  #about h4 {
+    color: #ffffff;
+  }
 
-
+  #about h3 {
+    color: #ffffff;
+  }
 
   /*---------------------------------------
       TEAM              
